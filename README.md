@@ -1,2 +1,2 @@
-# Data-Dashboards-with-R-and-Shiny
-Data Dashboards with R and Shiny
+# Dashboards with Shiny
+Dashboards with Shiny
